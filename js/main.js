@@ -1,7 +1,6 @@
 var numArray = [];
 var numArray2 = [];
 var numArray3 = [];
-var colorList = ['red', 'orange', 'yellow', 'green', 'blue'];
 var sum = 0;
 
 function handleClick() {
