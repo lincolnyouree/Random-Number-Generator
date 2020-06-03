@@ -1,29 +1,29 @@
+* {
+    text-align: center;
+}
+
+body {
+    background-color: yellow;
+}
+
 #numberBox {
-    height: 100px;
-    width: 100px;
-    font-size: 30px;
+    height: 50vmin;
+    width: 50vmin;
+    font-size: 10vmin;
     text-align: center;
+    border-radius: 35vmin;
+    border-color: red;
+    border-width: 2vmin;
+    outline: none;
 }
 
-div {
-    height: 100px;
-    width: 100px;
-    font-size: 30px;
-    text-align: center;
-    border: 1px solid;
-    line-height: 100px; 
-}
-
-#numberBox2 {
-    height: 100px;
-    width: 100px;
-    font-size: 30px;
-    text-align: center;
-}
-
-#numberBox3 {
-    height: 100px;
-    width: 100px;
-    font-size: 30px;
-    text-align: center;
+#btn {
+    height: 5vmin;
+    width: 25vmin;
+    background-color: red;
+    border-color: white;
+    border-radius: 2vmin;
+    border-width: .5vmin;
+    color: white;
+    outline: none;
 }
